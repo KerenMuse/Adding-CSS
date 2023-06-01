@@ -1,0 +1,7 @@
+.red-text {
+    color: aqua;
+}
+
+p[draggable="true"]{
+    color: red;
+}
